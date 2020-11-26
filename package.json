@@ -1,0 +1,24 @@
+{
+  "name": "Natours-Project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josephine19001/Natours-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josephine19001/Natours-Project/issues"
+  },
+  "homepage": "https://github.com/Josephine19001/Natours-Project#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
